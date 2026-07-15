@@ -27,11 +27,11 @@ Modder Java - Android
 Good is above moral victory.
 Good does not arise from the purity of action, but from the renunciation of the claim to be just on one's own.
 </strong></em>
-</p>
 
 <img width="515" height="800" alt="Bom Voyage" src="https://github.com/user-attachments/assets/1d3b206b-6550-4025-bd7b-2b6aa14d85d3" />
 
 <img width="500" height="500" alt="picmix com_13688575" src="https://github.com/user-attachments/assets/c4f6d3b5-0975-4324-95ed-11091a49e7f8" />
+</p>
 
 <p align="center">
   <a href="https://youtube.com/@gdgohan460">
