@@ -17,18 +17,19 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <table style="border:none;">
+  <table>
     <tr style="border:none;">
-      <td style="border:none;">
-        <img src="https://github-stats-extended.vercel.app/api?username=gdgohan" />
-      </td>
       <td style="border:none; "align="center">
+        <img src="https://github-stats-extended.vercel.app/api?username=gdgohan" />
+        <td style="border:none; "align="center">
+        <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px"/>
-        <br><br>
         <img src="https://github.com/user-attachments/assets/1db70de8-983a-4035-9bce-ba5205a89edf" width="50px"/>
+        </p>
       </td>
+    </td>
     </tr>
-  </table>
+</table>
 </p>
 
 ᗜˬᗜ
