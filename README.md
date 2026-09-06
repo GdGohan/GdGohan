@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GdGohan's GitHub stats](https://github-stats-extended.vercel.app/api?username=gdgohan)](https://github.com/stats-organization/github-stats-extended)
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=50px/>
+
+<img width="50px" alt="789 Sem Título_20260906183951" src="https://github.com/user-attachments/assets/1db70de8-983a-4035-9bce-ba5205a89edf" />
+</p>
+
 ᗜˬᗜ
 
 Modder Java - Android
