@@ -68,12 +68,10 @@ Good does not arise from the purity of action, but from the renunciation of the 
 </p>
 </strong></em>
 
-<td style="border:none; "align="center">
-<p align="center">
-<img width="515" height="800" alt="Bom Voyage" src="https://github.com/user-attachments/assets/1d3b206b-6550-4025-bd7b-2b6aa14d85d3" />
-<img width="500" height="500" alt="picmix com_13688575" src="https://github.com/user-attachments/assets/c4f6d3b5-0975-4324-95ed-11091a49e7f8" />
+<p align="center" style="white-space: nowrap;">
+<img width="415" height="650" alt="Bom Voyage" src="https://github.com/user-attachments/assets/1d3b206b-6550-4025-bd7b-2b6aa14d85d3" />
+<img width="400" height="400" alt="picmix com_13688575" src="https://github.com/user-attachments/assets/c4f6d3b5-0975-4324-95ed-11091a49e7f8" />
 </p>
-</td>
 <pre>
                                                                                                                               
                                                                                                                             
