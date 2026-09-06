@@ -21,8 +21,8 @@ Here are some ideas to get you started:
     <tr style="border:none;">
       <td style="border:none; "align="center">
       <p align="center">
-        <img src="https://github-stats-extended.vercel.app/api?username=gdgohan&hide_rank=true&card_width=300" width="300" height="300"/>
-          <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gdgohan&label=Repos&query=$.public_repos&color=blue" />
+        <img src="https://github-stats-extended.vercel.app/api?username=gdgohan&hide_rank=true&card_width=300" width="300" height="300" style="display:block; margin:0 auto;"/>
+          <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gdgohan&label=Repos&query=$.public_repos&color=blue" style="display:block; margin:0 auto;" />
       </p>
       </td>
         <td style="border:none; "align="center">
