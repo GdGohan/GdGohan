@@ -1,4 +1,4 @@
-<h3 align="center">Brazilian 📌🟩🟨🟦</h3>
+<h2 align="center">Brazilian 📌🟩🟨🟦</h2>
 
 <!--
 **GdGohan/GdGohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
