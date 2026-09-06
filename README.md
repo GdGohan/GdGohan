@@ -20,13 +20,24 @@ Here are some ideas to get you started:
   <table>
     <tr style="border:none;">
       <td style="border:none; "align="center">
-        <img src="https://github-stats-extended.vercel.app/api?username=gdgohan" />
+        <img src="https://github-stats-extended.vercel.app/api?username=gdgohan&hide_rank=true&card_width=300" width="300" height="300"/>
+        <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gdgohan&label=Repos&query=$.public_repos&color=blue" />
       </td>
         <td style="border:none; "align="center">
         <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px"/>
         <img src="https://github.com/user-attachments/assets/1db70de8-983a-4035-9bce-ba5205a89edf" width="50px"/>
         </p>
+          <p align="center">
+  <a href="https://youtube.com/@gdgohan460">
+    <img
+      src="https://github.com/user-attachments/assets/a246e2b1-ea29-4bf3-a5bd-65ca40d13557"
+      alt="YouTube"
+      width="50"
+    ><br>
+    My Channel
+  </a>
+</p>
       </td>
     </tr>
 </table>
@@ -50,17 +61,6 @@ Good does not arise from the purity of action, but from the renunciation of the 
 
 <img width="500" height="500" alt="picmix com_13688575" src="https://github.com/user-attachments/assets/c4f6d3b5-0975-4324-95ed-11091a49e7f8" />
 </p>
-
-<p align="center">
-  <a href="https://youtube.com/@gdgohan460">
-    <img
-      src="https://github.com/user-attachments/assets/a246e2b1-ea29-4bf3-a5bd-65ca40d13557"
-      alt="YouTube"
-      width="50"
-    ><br>
-    My Channel
-  </a>
-</p>
 <pre>
                                                                                                                               
                                                                                                                             
@@ -69,7 +69,7 @@ Good does not arise from the purity of action, but from the renunciation of the 
                                                                                                                             
                                                                                                                             
                                                                                                                             
-                                                                                                                            
+                                                                                                                        
                                                                                                                             
                                                                                                                             
                                                                                                 #%%%#                       
