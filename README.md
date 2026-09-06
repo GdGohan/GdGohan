@@ -15,12 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GdGohan's GitHub stats](https://github-stats-extended.vercel.app/api?username=gdgohan)](https://github.com/stats-organization/github-stats-extended)
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=50px/>
-
-<img width="50px" alt="789 Sem Título_20260906183951" src="https://github.com/user-attachments/assets/1db70de8-983a-4035-9bce-ba5205a89edf" />
+<p align="center">
+  <table style="border:none;">
+    <tr style="border:none;">
+      <td style="border:none;">
+        <img src="https://github-stats-extended.vercel.app/api?username=gdgohan" />
+      </td>
+      <td style="border:none; "align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px"/>
+        <br><br>
+        <img src="https://github.com/user-attachments/assets/1db70de8-983a-4035-9bce-ba5205a89edf" width="50px"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ᗜˬᗜ
