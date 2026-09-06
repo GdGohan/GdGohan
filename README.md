@@ -45,18 +45,26 @@ Here are some ideas to get you started:
 </table>
 </p>
 
+<p align="center">
 ᗜˬᗜ
-
+</p>
+<p align="center">
 Modder Java - Android
-
+</p>
+<p align="center">
 02/09/2006 • GenZ
-
+</p>
+<p align="center">
 ✝️
-
+</p>
 <p align="center">
 <strong><em>Good does not arise from the imposition of ideals, but from the recognition of human limits.
+<p align="center">
 Good is above moral victory.
+</p>
+<p align="center">
 Good does not arise from the purity of action, but from the renunciation of the claim to be just on one's own.
+</p>
 </strong></em>
 
 <img width="515" height="800" alt="Bom Voyage" src="https://github.com/user-attachments/assets/1d3b206b-6550-4025-bd7b-2b6aa14d85d3" />
